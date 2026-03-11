@@ -3,10 +3,8 @@
   const pages = [
     { label: 'Welcome', href: 'index.html' },
     { label: 'Benefits', href: 'benefits.html' },
-    { label: 'Home', href: 'home.html' },
-    { label: 'Schedule', href: 'schedule.html' },
-    { label: 'Lifestyle', href: 'lifestyle.html' },
-    { label: 'Parenting', href: 'parenting.html' },
+    { label: 'Host Family', href: 'host-family.html' },
+    { label: 'Au Pair', href: 'au-pair.html' },
     { label: 'Location', href: 'location.html' },
     { label: 'FAQ', href: 'faq.html' }
   ];
