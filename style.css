@@ -527,6 +527,25 @@ section {
   border-radius: var(--radius);
 }
 
+.photo-figure {
+  margin: 0;
+}
+
+.photo-figure img {
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.photo-figure figcaption {
+  background-color: var(--bg-card);
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  text-align: center;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0 0 var(--radius) var(--radius);
+  border: 1px solid var(--border);
+  border-top: none;
+}
+
 @media (min-width: 768px) {
   .photo-grid {
     grid-template-columns: 1fr 1fr;
