@@ -3,7 +3,8 @@
   const pages = [
     { label: 'Welcome', href: 'index.html' },
     { label: 'Benefits', href: 'benefits.html' },
-    { label: 'Home & Schedule', href: 'home-schedule.html' },
+    { label: 'Home', href: 'home.html' },
+    { label: 'Schedule', href: 'schedule.html' },
     { label: 'Lifestyle', href: 'lifestyle.html' },
     { label: 'Parenting', href: 'parenting.html' },
     { label: 'Location', href: 'location.html' },
